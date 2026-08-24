@@ -1,7 +1,7 @@
 name: Using Actions
 
 on: 
-      workflow dispatch:
+    workflow dispatch:
   # push
 
 jobs:
