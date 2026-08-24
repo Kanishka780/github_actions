@@ -1,6 +1,8 @@
 name: Using Actions
 
-on: push
+on: 
+      workflow dispatch:
+  # push
 
 jobs:
     build:
